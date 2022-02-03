@@ -114,6 +114,8 @@ class SearchComponent extends React.Component {
         <br></br>
         <br></br>
         <br></br>
+        <br></br>
+        
         {/* </Col> */}
         {/* </Row> */}
         {/* </Container> */}
